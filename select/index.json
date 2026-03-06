@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "YES！サマーラブ♡",
+  "base_artist": "勇者パーティーにかわいい子がいたので、告白してみた。",
+  "createdAt": "2026-03-06T19:00:49.780690Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YES!サマーラブ♡",
+      "artist": "勇者パーティーにかわいい子がいたので、告白してみた。",
+      "has_synced": false,
+      "path": "select/pl_01_YES!サマーラブ♡_勇者パーティーにかわいい子がいたので、告白してみた。.txt"
+    }
+  ]
+}
